@@ -5,7 +5,7 @@ class ConfigArgs:
     log_dir = 'logs'
     sample_dir = join(log_dir, 'samples')
     ckpt_dir = join(log_dir, 'ckpt')
-    data_dir = '/home/yangyangii/data/CelebaHQ256'
+    data_dir = '/home/ubuntu/JEWEL_PROJECT/VISHAL/necklace_resized'
     retrain = False
     load_model = None # 
     batch_size = 16
